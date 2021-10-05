@@ -1,0 +1,9 @@
+{
+	"name": "hacker3-ADF",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43c7bdaf-cea9-43ba-861c-2b52ea9a08df",
+		"tenantId": "e91ced12-24a0-4e12-a6b8-3f6912a85be2"
+	}
+}

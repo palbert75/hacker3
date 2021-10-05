@@ -1,0 +1,6 @@
+{
+	"name": "FouthCoffeInterationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

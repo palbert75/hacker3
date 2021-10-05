@@ -1,0 +1,6 @@
+{
+	"name": "VanArsdelRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

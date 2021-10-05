@@ -1,0 +1,16 @@
+{
+	"name": "SourceDataset_5ao",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "CosmosSouthMovies",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "CosmosDbSqlApiCollection",
+		"schema": {},
+		"typeProperties": {
+			"collectionName": "movies"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
