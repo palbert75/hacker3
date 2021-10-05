@@ -19,7 +19,10 @@
 					"value": "@dataset().cw_fileName",
 					"type": "Expression"
 				},
-				"folderPath": "VanArsdel",
+				"folderPath": {
+					"value": "VanArsdel/@{replace(dataset().cw_fileName, '.txt', '')}",
+					"type": "Expression"
+				},
 				"fileSystem": "southridge"
 			},
 			"columnDelimiter": ",",
